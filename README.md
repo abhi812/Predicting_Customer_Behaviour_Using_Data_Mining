@@ -1,6 +1,6 @@
 # Predicting_Customer_Behaviour_Using_Data_Mining
 
-This work focusses on Association rule mining techniques for identifying customer behavior. This will further help in building appropriate recommendations of different products to the customer (Basically, thing like, “These are the things which are usually bought together”, “If you liked this, you might like this” etc.)
+This work focuses on Association rule mining techniques for identifying customer behavior. This will further help in building appropriate recommendation system of different products to the customer (Basically, thing like, “These are the things which are usually bought together”, “If you liked this, you might like this” etc.)
 
 Data Description:
 
